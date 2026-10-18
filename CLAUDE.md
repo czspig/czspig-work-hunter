@@ -1,6 +1,6 @@
 # CLAUDE.md
 
-猪猪求职助手：基于 BossHunter 改造的本地、只读 AI 岗位筛选助手。Python 包目录仍叫 `bosshunter`，CLI 命令也是 `bosshunter`。
+猪猪求职助手：本地、只读的 AI 岗位筛选助手。Python 包目录仍叫 `bosshunter`，CLI 命令也是 `bosshunter`。
 
 ## 产品边界（不要越过）
 

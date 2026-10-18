@@ -26,7 +26,7 @@
 | 工作台 | 岗位池、筛选、导出 Excel、回收站；投递后手动标记「已投递」 |
 | 定制简历 | 在岗位详情里点一下，按这个岗位的 JD 生成定制简历，下载后自己发送 |
 
-**不做的事**：AI 招呼语、自动发送、监听 HR 回复，以及智联 / 前程无忧 / 猎聘采集。这些功能已从原项目中移除。
+**不做的事**：AI 招呼语、自动发送、监听 HR 回复，以及其他招聘平台采集。
 
 ## 快速开始
 
@@ -53,8 +53,6 @@ bosshunter run         # 采集 + 评分
 
 完整步骤见 [上手指南](docs/QUICKSTART.md)，全部命令见 [CLI 命令](docs/CLI.md)。
 
-## 致谢与许可证
+## 许可证
 
-本项目基于 [升级打怪开源社区](https://github.com/shengjidaguai-china) 的 [BossHunter](https://github.com/shengjidaguai-china/BossHunter) 二次开发，感谢原作者和所有贡献者。
-
-源码沿用 [PolyForm Noncommercial License 1.0.0](LICENSE)，**仅限非商业用途**。它是 source-available（源码可用）软件，不是 OSI 定义下的开源软件。
+源码采用 [PolyForm Noncommercial License 1.0.0](LICENSE)，**仅限非商业用途**。它是 source-available（源码可用）软件，不是 OSI 定义下的开源软件。
